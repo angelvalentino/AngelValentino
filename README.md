@@ -1,9 +1,12 @@
 # Hi there 👋
 
-💬 Fluent in Spanish, Catalan, Romanian, and English.  
-🎨 I build responsive, modern web apps that focus on user experience — it’s not just what users see, but what they feel.  
-💡 I believe in mastering the basics, working primarily with vanilla tech stacks while also using libraries and frameworks.  
-🌐 Strong full-stack foundation: accessibility, responsiveness, RESTful APIs, databases, deployment, and security.  
+💬 Fluent in Spanish, Catalan, Romanian, and English.
+
+🎨 Responsive, accessible, and modern web applications are my baseline. Beyond that, I craft experiences that spark curiosity and create lasting memories. —What matters is not what the user sees, but what they feel.
+
+💡 I believe mastering the basics is essential to truly understand any craft. Whether sewing or coding, the best way to learn is by diving in without training wheels. That's why I focus on a vanilla tech stack for both frontend and backend, while also being proficient with libraries and frameworks.
+
+🌐 Strong full-stack foundation: accessibility, responsiveness, RESTful APIs, databases, deployment and security.
 
 <br>
 
