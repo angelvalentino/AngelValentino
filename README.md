@@ -6,7 +6,7 @@
 
 💡 I believe mastering the basics is essential to truly understand any craft. Whether sewing or coding, the best way to learn is by diving in without training wheels. That's why I focus on a vanilla tech stack for both frontend and backend, while also being proficient with libraries and frameworks.
 
-🌐 Frontend | Backend | WebGL | Microservices | DevOps | DBMS | OOP | RESTful APIs | DigitalOcean | Linux
+🌐 Strong full-stack foundation: Frontend | Backend | WebGL | Microservices | DevOps | DBMS | OOP | RESTful APIs | DigitalOcean | Linux
 
 <br>
 
